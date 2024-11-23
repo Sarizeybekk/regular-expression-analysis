@@ -1,5 +1,5 @@
-# regular-expression-analysis
- # 🛠️ Regex ve Morfolojik Analiz Projesi
+
+ # 🛠️ Regex ve Morfolojik Analiz 
 
 Bu proje, Türkçe metin dosyaları üzerinde **RegEx aramaları** ve **morfolojik analizler** gerçekleştiren bir masaüstü uygulamasıdır. Proje, C# programlama dili ile geliştirilmiş olup, **Visual Studio** ortamında çalışmaktadır. Uygulama, metin içeriğinin düzenlenmesi, analiz edilmesi ve detaylı sonuçların kullanıcıya sunulmasını sağlamaktadır.
 
